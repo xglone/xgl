@@ -1,10 +1,4 @@
-## vue-admin-permission
-项目基于vue-cli3.0进行搭建，并使用了vue全家桶vue vuex axios vue-router elementui，增加了按钮级别的权限控制
 
-
- ### <a target="_blank" href="http://www.vueadmin.cn">线上预览地址</a>
- ### <a target="_blank" href="https://github.com/loveRandy/react-admin">React版本请移步</a>
-  ### <a target="_blank" href="https://github.com/loveRandy/vue3">VUE3版本请移步</a>
   
 
 #### 脚手架版本:
